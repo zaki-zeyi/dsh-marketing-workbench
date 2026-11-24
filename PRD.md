@@ -40,7 +40,7 @@
 
 # 4 架构实现
 
-基于deepseek harness插件来实现（插件名：dsh\-industry\-research），可以在dsh上安装本插件，独立的页签呈现【MKT平台】
+基于deepseek harness插件来实现（插件名：本仓库名），可以在dsh上安装本插件，独立的页签呈现【MKT平台】
 
 ai会话可以多个并行。绑定一个插件级工作区，工作区名字与插件名一致，所有ai会话存储分组在这个工作区下。
 
